@@ -1,0 +1,8 @@
+#------------------------------------------------------
+# block's depends list file
+#
+# <-force/filter>  <block_name>  <block_version> 
+# -force  - option that works only for top block
+#           if not top block , this line ignored
+# -filter - 
+#------------------------------------------------------
